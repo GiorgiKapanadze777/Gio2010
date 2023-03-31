@@ -4,7 +4,6 @@ from turtle  import *
 #we want to point a house
 
 #step 1:  draw a square
-begin_fill()
 speed(3)
 width(7)
 color("purple")
@@ -20,21 +19,18 @@ left(90)
 
 forward(200)
 left(90)
-end_fill()
 #end of square
 
 #drawing door
 
 forward(70)
 color("yellow")
-begin_fill()
 left(90)
 forward(100)    #height of the door
 right(90)
 forward(60)
 right(90)
 forward(100)
-end_fill()
 
 penup()
 goto(200, 200)
