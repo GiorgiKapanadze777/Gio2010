@@ -1,0 +1,24 @@
+.click {
+    width: 200px;
+    height: 70px;
+    background-color: rgb(8, 150, 43);
+}
+.click:hover {
+    background-color: rgb(6, 60, 45);
+}
+
+.tech {
+    color: green;
+}
+
+.entrepreneuship {
+    color: green;
+}
+
+.graphicdesign {
+    color: green;
+}
+
+.filmmaking {
+    color: green;
+}
